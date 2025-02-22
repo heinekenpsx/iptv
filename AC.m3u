@@ -5,3 +5,9 @@ http://32r3.qbt4s.com/vod/1/2023/10/27/a4ad1bffa4b8/index5.m3u8
 #EXTINF:-1 tvg-logo="noimage.png" group-title="Phim" tvg-id="" tvg-name="", Deep Blue Sea 3
 http://32r3.qbt4s.com/vod/1/2023/08/22/6200fd37547b/index5.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://img.ophim.live/uploads/movies/tee-yod-quy-an-tang-thumb.jpg&w=720" group-title="Phim" tvg-id="" tvg-name="", Tee Yod - Quỷ ăn tạng 1
+https://vip.opstream17.com/20240410/4355_e078ebaf/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.weserv.nl/?url=https://img.ophim.live/uploads/movies/tee-yod-quy-an-tang-2-thumb.jpg&w=720" group-title="Phim" tvg-id="" tvg-name="", Tee Yod 2 - Quỷ ăn tạng 2
+https://vip.opstream15.com/20250212/49212_af1ea7c5/index.m3u8
+
