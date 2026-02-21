@@ -1,1 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="noimage.png" group-title="All" tvg-id="" tvg-name="", EPL 01
+https://rawtv.iddns.workers.dev/stream/EPL01.m2ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="All" tvg-id="" tvg-name="", EPL 02
+https://rawtv.iddns.workers.dev/stream/EPL02.m2ts
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="All" tvg-id="" tvg-name="", F1
+https://rawtv.iddns.workers.dev/stream/F101.m2ts
+
