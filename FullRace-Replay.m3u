@@ -1,0 +1,16 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1 - 2026" tvg-id="" tvg-name="", Free Practice
+https://suisports.upns.xyz/hls/E8JVWd-BjV6riA1LTNs4rw/urp/dq8zrbeg/sq1faw/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1 - 2026" tvg-id="" tvg-name="", Practice
+https://suisports.upns.xyz/hls/XsXok1I32cinIh2yohx1_Q/onm/dq8zrbeg/v6oryc/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1 - 2026" tvg-id="" tvg-name="", Q1
+https://suisports.upns.xyz/hls/_9nSZSYfjIf40sZjsFWYig/ty/5z1ivqbn/p8ywvz/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1 - 2026" tvg-id="" tvg-name="", Q2
+https://suisports.upns.xyz/hls/UbhXzLENiu5ugmyky9L2fg/m9/5z1ivqbn/mu58cl/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1 - 2026" tvg-id="" tvg-name="", Sprint
+https://suisports.upns.xyz/hls/5S1yeloi4Csn9EEQ25t6EQ/mf/5z1ivqbn/lcb1k5/tt/master.m3u8?v=1766826492
+
