@@ -20,6 +20,9 @@ https://rawtv.iddns.workers.dev/stream/EVENT02.m2ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W3BFWBx0/image_(3).jpg" group-title="###" tvg-id="" tvg-name="", Event 03
 https://rawtv.iddns.workers.dev/stream/EVENT03.m2ts
 
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="Sport" tvg-id="" tvg-name="", Sky Sports F1 50fps
+https://live.hdsogood.com/memfs/606e54ba-7737-4c63-81db-543f55cce9b4.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-1.png" group-title="Sport" tvg-id="beIN Sports HD" tvg-name="beIN Sports HD", beIN Sports 1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 
