@@ -1,49 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Thailand GP - Round 1" tvg-id="" tvg-name="", Free Practice
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1" tvg-id="" tvg-name="", Free Practice
 https://suisports.upns.xyz/hls/E8JVWd-BjV6riA1LTNs4rw/urp/dq8zrbeg/sq1faw/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Thailand GP - Round 1" tvg-id="" tvg-name="", Practice
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1" tvg-id="" tvg-name="", Practice
 https://suisports.upns.xyz/hls/XsXok1I32cinIh2yohx1_Q/onm/dq8zrbeg/v6oryc/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Thailand GP - Round 1" tvg-id="" tvg-name="", Q1
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1" tvg-id="" tvg-name="", Q1
 https://suisports.upns.xyz/hls/_9nSZSYfjIf40sZjsFWYig/ty/5z1ivqbn/p8ywvz/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Thailand GP - Round 1" tvg-id="" tvg-name="", Q2
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1" tvg-id="" tvg-name="", Q2
 https://suisports.upns.xyz/hls/UbhXzLENiu5ugmyky9L2fg/m9/5z1ivqbn/mu58cl/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Thailand GP - Round 1" tvg-id="" tvg-name="", Sprint
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1" tvg-id="" tvg-name="", Sprint
 https://suisports.upns.xyz/hls/5S1yeloi4Csn9EEQ25t6EQ/mf/5z1ivqbn/lcb1k5/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Thailand GP - Round 1" tvg-id="" tvg-name="", Race
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1" tvg-id="" tvg-name="", Race
 https://suisports.upns.xyz/hls/2PA8_ujR-_sA6CsWxfsEiA/db/nc3fje1p/nzsyf8/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Thailand GP - Round 1" tvg-id="" tvg-name="", Adter the flag
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1" tvg-id="" tvg-name="", Adter the flag
 https://suisports.upns.xyz/hls/uE3i9ZFVn89X8Hg1lq24tA/db/nc3fje1p/tmoeil/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Thailand GP - Round 1" tvg-id="" tvg-name="", Moto 2 - Race
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1" tvg-id="" tvg-name="", Moto 2 - Race
 https://suisports.upns.xyz/hls/kS9D5mlHnLIDAN-5OHg9nw/ck/nc3fje1p/ktg58b/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Thailand GP - Round 1" tvg-id="" tvg-name="", Moto 3 - Race
+#EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1" tvg-id="" tvg-name="", Moto 3 - Race
 https://suisports.upns.xyz/hls/FbTm_IL-Mbdd81eAclZxwQ/n8l/nc3fje1p/j1pwki/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="##### MotoGP 2026 #####" tvg-id="" tvg-name="", ###
-###
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Australian GP - Round 1" tvg-id="" tvg-name="", Practice 1 p1
+#EXTINF:-1 tvg-logo="noimage.png" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 1 p1
 https://cdndirector.dailymotion.com/cdn/manifest/video/xa1dfto.m3u8?sec=wL_EGZeNLE4nLHs8hz3twCjPr1iPfMxbC_4JZz9zuBDLpZR5DRW5YDi6TIVdEJHlAmFGExlsaeo23CaOaJXVJv7Bz_vZlONEWdL_qDnof7irjaPPt4BsP4cVxTBufsxp
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Australian GP - Round 1" tvg-id="" tvg-name="", Practice 1 p2
+#EXTINF:-1 tvg-logo="noimage.png" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 1 p2
 https://cdndirector.dailymotion.com/cdn/manifest/video/xa1dff2.m3u8?sec=EmbSuB5pIlSFrxLuoIYKRKvm7MQv3eLCPzgstgkfQaOKxAX4-cTsYvCcdYH8zIPc_l3UEUraI9HQdGW51uFVFGihdrKzy3HEMgH7oKlOCHg
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Australian GP - Round 1" tvg-id="" tvg-name="", Practice 2 p1
+#EXTINF:-1 tvg-logo="noimage.png" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 2 p1
 https://cdndirector.dailymotion.com/cdn/manifest/video/xa1dene.m3u8?sec=S-3glpbAJRqLDLRP9ygw3qfieFZ5PzpooSOQ-4taKR8m4fQWAhui3UyV8g-i37RKYJj-28N4CzWwsssSRPRimvngehw7XOFsXAlHktQf4xIRs2Rd8AZiNIQYyQp40pml
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Australian GP - Round 1" tvg-id="" tvg-name="", Practice 2 p2
+#EXTINF:-1 tvg-logo="noimage.png" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 2 p2
 https://cdndirector.dailymotion.com/cdn/manifest/video/xa1dg86.m3u8?sec=JSCQvXjOjSDpTJc9dDCYBSs7DFwiSp70GuS972cM_MprLgnyJkxdZ9bOuZxPU1gzo9AirnIDF9so3lGf7hwhlcDWlWzXYfGOj0hRA4U2KrTwyeDhgffAfBveNPcFR0ad
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="Australian GP - Round 1" tvg-id="" tvg-name="", Practice 2 (TV360)
+#EXTINF:-1 tvg-logo="noimage.png" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 2 (TV360)
 https://rr2-ateme.tv360.vn/video1/2026/03/06/14/bd7f3ffc/0fecdc/h264/master.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL3ZpZGVvMS8yMDI2LzAzLzA2LzE0L2JkN2YzZmZjLzBmZWNkYy9oMjY0LyIsIm1ldGhvZCI6IkdFVCIsImV4cCI6MTc3Mjg1NzE0MH0.HQFtqn-ob4mNcMM9_qW5PKtKvgOcSfbCfpfVZaOMndbRpEbsCIZUB48LZtwIQPIFxQeGX3d30abWXQPkcfU2EQ&uid=3477217
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="##### Formula 1 2026 #####" tvg-id="" tvg-name="", ###
-###
 
