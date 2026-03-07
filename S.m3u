@@ -23,6 +23,9 @@ https://rawtv.iddns.workers.dev/stream/EVENT03.m2ts
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="Sport" tvg-id="" tvg-name="", Sky Sports F1 50fps
 https://live.hdsogood.com/memfs/606e54ba-7737-4c63-81db-543f55cce9b4.m3u8
 
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/yGC9brvzJBdkj8D2iyr1FmtE2FOM4myhn83rWR1DsJR4jXBwpQSHa7OkS9Q1_XVqQGl-" group-title="Sport" tvg-id="" tvg-name="", Rally TV
+https://live.hdsogood.com/memfs/85e7db50-0343-4d92-911c-de7bfda037d3.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-1.png" group-title="Sport" tvg-id="beIN Sports HD" tvg-name="beIN Sports HD", beIN Sports 1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
 
