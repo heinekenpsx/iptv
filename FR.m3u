@@ -26,18 +26,18 @@ https://suisports.upns.xyz/hls/kS9D5mlHnLIDAN-5OHg9nw/ck/nc3fje1p/ktg58b/tt/mast
 #EXTINF:-1 tvg-logo="noimage.png" group-title="MotoGP - Thailand - Round 1" tvg-id="" tvg-name="", Moto 3 - Race
 https://suisports.upns.xyz/hls/FbTm_IL-Mbdd81eAclZxwQ/n8l/nc3fje1p/j1pwki/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 1 p1
-https://cdndirector.dailymotion.com/cdn/manifest/video/xa1dfto.m3u8?sec=6wlSX1BvMo8N7INmXUoWq2a0bzXeAqX65sYczy3KvfJKf69ErngiTh8ZPHdgTx8AtetU1GYnDrIqEsFrvYcbIyp1u8ZjRcAjCgkPx6bXtcE
+#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 1
+https://suisports.upns.xyz/hls/opDePaCgQqSQDaYTSN_4Bg/us/afyhwv5v/b9zqps/tt/master.m3u8?v=1766826492
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 1 p2
-https://cdndirector.dailymotion.com/cdn/manifest/video/xa1dff2.m3u8?sec=cuMSVzwKtPknb6Odd_HA9yQfTQdyMox5LILaJRVqtA8w_81QPW3WOSVdjYcKU7esUXMpv5-ukK8Fvmyu-Hl_j2X8-92n74LXXJstY8yxfXNTwT_PdjsJlKQyjZjlBPk0
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 2 p1
-https://cdndirector.dailymotion.com/cdn/manifest/video/xa1dene.m3u8?sec=eupm_p-a7mUh4lLklwF-kdnIfz7Q3TlJTG6N5tVR4X_wfDAFJEMzuopX-lc1uwXiLnzVfJwNfYMgHbOKP2261lEBI4zLrqZFK-Zmcyv_PyaWNacXHHN5t_FuUXG6bxeu
-
-#EXTINF:-1 tvg-logo="noimage.png" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 2 p2
-https://cdndirector.dailymotion.com/cdn/manifest/video/xa1dg86.m3u8?sec=qyKS73kbi8vyKDkikSImz7gIeHkbQXxljkqaqFkJYwjwNFO18zeiQxWvx-SdRRuSvdpsWbs33D7WE5l1hP8zBF5GkAIb4vSU9V06X1HA9W8Z85T4kNcYgEjIweZV7Mg3
+#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 2
+https://suisports.upns.xyz/hls/qy2G0uMZQtHNCN8rYIzJ-A/us/afyhwv5v/lcebte/tt/master.m3u8?v=1766826492
 
 #EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/06/14/a101876d/a101876d-4b2b-4e2e-ba9f-c5e692078468_640_360.jpg" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 2 (TV360)
-https://rr2-ateme.tv360.vn/video1/2026/03/06/14/bd7f3ffc/0fecdc/h264/master.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL3ZpZGVvMS8yMDI2LzAzLzA2LzE0L2JkN2YzZmZjLzBmZWNkYy9oMjY0LyIsIm1ldGhvZCI6IkdFVCIsImV4cCI6MTc3Mjg3OTQwMH0.Wsgn3ZtMZXZQMJ13lqQmuVRQKjlgoFWMAoknBELFLCDaerrvRE3JByX5mIKm4VVhXeXOKKeteb3fbXEdzREvVg&uid=3477217
+https://rr2-ateme.tv360.vn/video1/2026/03/06/14/bd7f3ffc/0fecdc/h264/master.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL3ZpZGVvMS8yMDI2LzAzLzA2LzE0L2JkN2YzZmZjLzBmZWNkYy9oMjY0LyIsIm1ldGhvZCI6IkdFVCIsImV4cCI6MTc3MjkwNTAyMH0.v6zFxDVZZfmDlBwhw3zbMUgOT_Y4RI8eD2NWK52RT6RCxuVd87Px6gbODxx_6nauvc_xueqPnCbZ71CzTkqTIQ&uid=3477217
+
+#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/07/10/2e9f8a45/2e9f8a45-f3d2-4302-aa09-d4a91e3eaa8d_640_360.jpg" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Practice 3 (TV360)
+https://rr2-ateme.tv360.vn/video1/2026/03/07/10/9ddeeb07/fba45f/h264/master.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL3ZpZGVvMS8yMDI2LzAzLzA3LzEwLzlkZGVlYjA3L2ZiYTQ1Zi9oMjY0LyIsIm1ldGhvZCI6IkdFVCIsImV4cCI6MTc3MjkwNTA4MH0.hvZK0qTy5bo19c5vDYBljfJCQgXhNsk_l9y_iWIDziNsSnXto6VyQthsTnbV2d-TzZGL5OtMDqsLk7G-S_-JCQ&uid=3477217
+
+#EXTINF:-1 tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/07/14/cb1d1166/cb1d1166-89a4-42f4-894a-3c6f81915de3_640_360.jpg" group-title="F1 - Australian - Round 1" tvg-id="" tvg-name="", Qualifying
+https://vod-evg4.tv360.vn/ACudCz1eGm1D34FiMofHqw/1772894400/video1/2026/03/07/15/d2c352a5/262466/h264/master.m3u8?uid=3477217
 
