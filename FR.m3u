@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="TV" tvg-id="" tvg-name="", Sky Sports F1 UK
+https://hls.iill.top/api/Sky-Sports-F1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="TV" tvg-id="" tvg-name="", Sky Sports F1 UK (50 fps)
+https://live.hdsogood.com/memfs/606e54ba-7737-4c63-81db-543f55cce9b4.m3u8
+
 #EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2023/03/30/86ad9835-f17e-4a69-9249-ecbefa1e7ea0/i0qm2jIu.jpg?width=850&height=914" group-title="MotoGP - Thailand - Round 1 - 2026" tvg-id="" tvg-name="", Free Practice
 https://suisports.upns.xyz/hls/E8JVWd-BjV6riA1LTNs4rw/urp/dq8zrbeg/sq1faw/tt/master.m3u8?v=1766826492
 
