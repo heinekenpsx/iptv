@@ -131,6 +131,12 @@ https://rawtv.iddns.workers.dev/stream/EVENT03.m2ts
 #EXTINF:-1 tvg-logo="noimage.png" group-title="###" tvg-id="" tvg-name="", animal planet
 http://published.duckdns.org:4022/udp/232.84.3.61:11686
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Now%20Sports%20精選.png" group-title="Sport 2" tvg-id="" tvg-name="", Now Sports EPL
+#EXTINF:-1 tvg-logo="noimage.png" group-title="###" tvg-id="" tvg-name="", 1
+rtp://239.61.4.66:1025
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="###" tvg-id="" tvg-name="", 2
+rtsp://139.215.98.88/PLTV/88888888/224/3221226209/10000100000000060000000015811874_0.smil
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png" group-title="Sport 2" tvg-id="" tvg-name="", Now Sports EPL
 http://109.61.81.147:1935/cdn7/767/mpegts?token=42e57e1e78da0b8220b1ec69bc8384d1
 
