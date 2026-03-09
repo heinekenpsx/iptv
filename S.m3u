@@ -140,3 +140,378 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221226209/100001000000000600000000158118
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/h15sfn1659623141.png" group-title="Sport 2" tvg-id="" tvg-name="", Now Sports EPL
 http://109.61.81.147:1935/cdn7/767/mpegts?token=42e57e1e78da0b8220b1ec69bc8384d1
 
+#EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true" group-title="Sports Temp 1" tvg-id="Blank.Dummy.us" tvg-name="Blank.Dummy.us", [ SPORTS TEMP 1]
+https://jmp2.uk/stvp-CA2900005KG
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" group-title="Sports Temp 1" tvg-id="ACC.Network.us" tvg-name="ACC.Network.us", ACC Network HD
+https://a1xs.vip/40000016
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/20/altitude-sports.png" group-title="Sports Temp 1" tvg-id="Altitude.Sports.-.Denver.us" tvg-name="Altitude.Sports.-.Denver.us", Altitude Sports
+https://a1xs.vip/40000048
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/12/big-ten.png" group-title="Sports Temp 1" tvg-id="Big.Ten.Network.us" tvg-name="Big.Ten.Network.us", Big Ten Network
+https://a1xs.vip/40000047
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/06/golazo.png" group-title="Sports Temp 1" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-name="plex.tv.CBS.Sports.Golazo.Network.plex", CBS Sports Golazo Network
+https://a1xs.vip/4000009
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/31/CBS_Sports_HQ.png" group-title="Sports Temp 1" tvg-id="plex.tv.CBS.Sports.HQ.plex" tvg-name="plex.tv.CBS.Sports.HQ.plex", CBS Sports HQ FHD
+https://a1xs.vip/4000007
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/15/cbs-sports.png" group-title="Sports Temp 1" tvg-id="CBS.Sports.Network.USA.us" tvg-name="CBS.Sports.Network.USA.us", CBS Sports Network
+http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wJvwsKH.png" group-title="Sports Temp 1" tvg-id="Chicago.Sports.Network.us" tvg-name="Chicago.Sports.Network.us", Chicago Sports Network
+https://a1xs.vip/4000049
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" group-title="Sports Temp 1" tvg-id="ESPN.us" tvg-name="ESPN.us", ESPN HD
+https://a1xs.vip/40000011
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/espnews.png" group-title="Sports Temp 1" tvg-id="ESPN.News.us" tvg-name="ESPN.News.us", ESPN News HD
+https://a1xs.vip/40000014
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/espn-2.png" group-title="Sports Temp 1" tvg-id="ESPN2.us" tvg-name="ESPN2.us", ESPN2 HD
+https://a1xs.vip/40000012
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/espn-u.png" group-title="Sports Temp 1" tvg-id="ESPN.U.us" tvg-name="ESPN.U.us", ESPNU HD
+https://a1xs.vip/40000013
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/08/FanDuel_Florida.png" group-title="Sports Temp 1" tvg-id="FanDuel.Sports.Network.Florida.us" tvg-name="FanDuel.Sports.Network.Florida.us", FanDuel Sports Florida
+https://a1xs.vip/4000050
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_GLakes.png" group-title="Sports Temp 1" tvg-id="FanDuel.Sports.Network.Great.Lakes.us" tvg-name="FanDuel.Sports.Network.Great.Lakes.us", FanDuel Sports Great Lakes
+https://a1xs.vip/4000055
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Midwest.png" group-title="Sports Temp 1" tvg-id="FanDuel.Sports.Network.Midwest.St..Louis.us" tvg-name="FanDuel.Sports.Network.Midwest.St..Louis.us", FanDuel Sports Midwest
+https://a1xs.vip/4000054
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/13/FanDuel_North.png" group-title="Sports Temp 1" tvg-id="FanDuel.Sports.Network.North.us" tvg-name="FanDuel.Sports.Network.North.us", FanDuel Sports North
+https://a1xs.vip/4000057
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_South.png" group-title="Sports Temp 1" tvg-id="FanDuel.Sports.Network.South.us" tvg-name="FanDuel.Sports.Network.South.us", FanDuel Sports South
+https://a1xs.vip/4000053
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_Sun.png" group-title="Sports Temp 1" tvg-id="Fanduel.Sports.Sun.us" tvg-name="Fanduel.Sports.Sun.us", FanDuel Sports Sun
+https://a1xs.vip/4000051
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel_West.png" group-title="Sports Temp 1" tvg-id="FanDuel.Sports.Network.West.us" tvg-name="FanDuel.Sports.Network.West.us", FanDuel Sports West
+https://a1xs.vip/4000052
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/11/FanDuel-Wisconsin.png" group-title="Sports Temp 1" tvg-id="FanDuel.Sports.Network.Wisconsin.us" tvg-name="FanDuel.Sports.Network.Wisconsin.us", FanDuel Sports Wisconsin
+https://a1xs.vip/4000056
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/07/fanduel_tv.png" group-title="Sports Temp 1" tvg-id="FanDuel.TV.us" tvg-name="FanDuel.TV.us", FanDuel TV
+https://a1xs.vip/40000046
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="Sports Temp 1" tvg-id="Fox.Sports.1.us" tvg-name="Fox.Sports.1.us", FS1 HD
+https://a1xs.vip/40000021
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="Sports Temp 1" tvg-id="Fox.Sports.2.us" tvg-name="Fox.Sports.2.us", FS2 HD
+https://a1xs.vip/40000022
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/18/golf-channel.png" group-title="Sports Temp 1" tvg-id="Golf.Channel.USA.us" tvg-name="Golf.Channel.USA.us", Golf Channel USA FHD
+https://a1xs.vip/40000060
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/06/marquee-sn.png" group-title="Sports Temp 1" tvg-id="Marquee.Sports.Network.us" tvg-name="Marquee.Sports.Network.us", Marquee Sports Network
+https://a1xs.vip/4000010
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/mlb-nw.png" group-title="Sports Temp 1" tvg-id="MLB.Network.HD.us2" tvg-name="MLB.Network.HD.us2", MLB Network
+https://a1xs.vip/40000030
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="Sports Temp 1" tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="MSG.(Madison.Square.Gardens).us", MSG FHD
+https://a1xs.vip/4000001
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" group-title="Sports Temp 1" tvg-id="MSG.Plus.us" tvg-name="MSG.Plus.us", MSG_PLUS FHD
+https://a1xs.vip/4000002
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/nba-tv.png" group-title="Sports Temp 1" tvg-id="NBA.TV.USA.us" tvg-name="NBA.TV.USA.us", NBA TV
+https://a1xs.vip/40000031
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lxdcjBQ.png" group-title="Sports Temp 1" tvg-id="NBC.Sports.Bay.Area.us" tvg-name="NBC.Sports.Bay.Area.us", NBC Sports Bay Area
+https://a1xs.vip/400050
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClsPpm6.png" group-title="Sports Temp 1" tvg-id="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us" tvg-name="NBC.Sports.Philadelphia.HDTV.(NBCSPAHD).us", NBC Sports Philadelphia
+https://a1xs.vip/400051
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports Temp 1" tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="New.England.Sports.Network.HDTV.(NESNHD).us", NESN FHD
+https://a1xs.vip/4000004
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" group-title="Sports Temp 1" tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-name="New.England.Sports.Network.HDTV.(NESNHD).us", NESN UHD
+https://a1xs.vip/4000080
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/nfl-nw.png" group-title="Sports Temp 1" tvg-id="NFL.Network.us2" tvg-name="NFL.Network.us2", NFL Network
+https://a1xs.vip/40000032
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/nfl-rz.png" group-title="Sports Temp 1" tvg-id="NFL.RedZone.HD.us2" tvg-name="NFL.RedZone.HD.us2", NFL RedZone
+https://a1xs.vip/40000033
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/nhl-nw.png" group-title="Sports Temp 1" tvg-id="NHL.Network.USA.us2" tvg-name="NHL.Network.USA.us2", NHL Network
+https://a1xs.vip/40000034
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" group-title="Sports Temp 1" tvg-id="SEC.Network.us" tvg-name="SEC.Network.us", SEC Network HD
+https://a1xs.vip/40000015
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="Sports Temp 1" tvg-id="Spectrum.SportsNet.us" tvg-name="Spectrum.SportsNet.us", Spectrum Sportsnet FHD
+https://a1xs.vip/4000006
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="Sports Temp 1" tvg-id="Spectrum.Sportsnet.Dodgers.us" tvg-name="Spectrum.Sportsnet.Dodgers.us", Spectrum Sportsnet LA Dodgers
+https://a1xs.vip/400052
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZRChbGNc/spectrum-sportsnet.png" group-title="Sports Temp 1" tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-name="Spectrum.Sportsnet.Lakers.us", Spectrum Sportsnet Lakers
+https://a1xs.vip/400053
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/05/Sportsnet_NY.png" group-title="Sports Temp 1" tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-name="SNY:.SportsNet.New.York.(Comcast).us", SportsNet NY FHD
+https://a1xs.vip/40000045
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" group-title="Sports Temp 1" tvg-id="TBS.-.East.us" tvg-name="TBS.-.East.us", TBS
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbseast.us.m3u8
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="Sports Temp 1" tvg-id="The.Tennis.Channel.us" tvg-name="The.Tennis.Channel.us", Tennis Channel FHD
+https://a1xs.vip/40000040
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" group-title="Sports Temp 1" tvg-id="The.Tennis.Channel.us" tvg-name="The.Tennis.Channel.us", Tennis Channel Plus FHD
+https://a1xs.vip/40000041
+
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" group-title="Sports Temp 1" tvg-id="TNT.-.Eastern.Feed.us" tvg-name="TNT.-.Eastern.Feed.us", TNT (EAST)
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tnteast.us.m3u8
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" group-title="Sports Temp 1" tvg-id="USA.Network.-.East.Feed.us" tvg-name="USA.Network.-.East.Feed.us", USA Network FHD
+https://streamer1.nexgen.bz/USA/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/04/willow.png" group-title="Sports Temp 1" tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-name="Willow.Cricket.HDTV.(WILLOWHD).us", Willow Cricket FHD
+https://a1xs.vip/40000042
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/04/willow-xtra.png" group-title="Sports Temp 1" tvg-id="Willow.Xtra.us" tvg-name="Willow.Xtra.us", Willow Cricket Xtra
+https://a1xs.vip/40000043
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="Sports Temp 1" tvg-id="FoxCricket.au" tvg-name="FoxCricket.au", Fox Sports 501 FHD
+https://a1xs.vip/700001
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idKGREY.png" group-title="Sports Temp 1" tvg-id="FoxLeague.au" tvg-name="FoxLeague.au", Fox Sports 502 FHD
+https://a1xs.vip/700002
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="Sports Temp 1" tvg-id="FoxSports503.au" tvg-name="FoxSports503.au", Fox Sports 503 FHD
+https://a1xs.vip/700003
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="Sports Temp 1" tvg-id="FoxFooty.au" tvg-name="FoxFooty.au", Fox Sports 504 FHD
+https://a1xs.vip/700004
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/angJkah.png" group-title="Sports Temp 1" tvg-id="FoxSports505.au" tvg-name="FoxSports505.au", Fox Sports 505 FHD
+https://a1xs.vip/700005
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="Sports Temp 1" tvg-id="FoxSports506.au" tvg-name="FoxSports506.au", Fox Sports 506 FHD
+https://a1xs.vip/700006
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="Sports Temp 1" tvg-id="FoxSportsMore.au" tvg-name="FoxSportsMore.au", Fox Sports 507 FHD
+https://a1xs.vip/700007
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/25/Optus_Sport.png" group-title="Sports Temp 1" tvg-id="Optus.Sport.1.au" tvg-name="Optus.Sport.1.au", Optus Sports 1
+https://a1xs.vip/700010
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/25/Optus_Sport.png" group-title="Sports Temp 1" tvg-id="Optus.Sport.2.au" tvg-name="Optus.Sport.2.au", Optus Sports 2
+https://a1xs.vip/700011
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8YNVKqC.png" group-title="Sports Temp 1" tvg-id="Sportsnet.360.ca" tvg-name="Sportsnet.360.ca", Sportsnet 360 FHD
+https://a1xs.vip/6000014
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SxBnZN0.png" group-title="Sports Temp 1" tvg-id="Sportsnet.One.ca" tvg-name="Sportsnet.One.ca", Sportsnet One FHD
+https://a1xs.vip/6000012
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o6Ct6Ce.png" group-title="Sports Temp 1" tvg-id="Sportsnet.(Ontario).ca" tvg-name="Sportsnet.(Ontario).ca", Sportsnet Ontario FHD
+https://a1xs.vip/6000011
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GAlu4gn.png" group-title="Sports Temp 1" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca" tvg-name="Sportsnet.(West).-.Satellite/Digital.ca", Sportsnet West
+https://a1xs.vip/6000015
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EJy8K7F.png" group-title="Sports Temp 1" tvg-id="Sportsnet.World.ca" tvg-name="Sportsnet.World.ca", Sportsnet World FHD
+https://a1xs.vip/6000013
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xF3cHNd.png" group-title="Sports Temp 1" tvg-id="TSN1.ca" tvg-name="TSN1.ca", TSN1
+https://a1xs.vip/6000001
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iTSoxQW.png" group-title="Sports Temp 1" tvg-id="TSN2.ca" tvg-name="TSN2.ca", TSN2
+https://a1xs.vip/6000002
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dPMY5Kc.png" group-title="Sports Temp 1" tvg-id="TSN3.ca" tvg-name="TSN3.ca", TSN3
+https://a1xs.vip/6000003
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9EInDNq.png" group-title="Sports Temp 1" tvg-id="TSN4.ca" tvg-name="TSN4.ca", TSN4
+https://a1xs.vip/6000004
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/houBcHX.png" group-title="Sports Temp 1" tvg-id="TSN5.ca" tvg-name="TSN5.ca", TSN5
+https://a1xs.vip/6000005
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/23/Astro_PL.webp" group-title="Sports Temp 1" tvg-id="Astro.Premier.League.my" tvg-name="Astro.Premier.League.my", Astro Premier League
+https://a1xs.vip/1100030
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/02/18/Astro_Premier_League_2.webp" group-title="Sports Temp 1" tvg-id="Astro.Premier.League.2.my" tvg-name="Astro.Premier.League.2.my", Astro Premier League 2
+https://a1xs.vip/1100031
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/28/HubP1.png" group-title="Sports Temp 1" tvg-id="Hub.Premier.1.sg" tvg-name="Hub.Premier.1.sg", Hub Premier 1 FHD
+https://a1xs.vip/1100041
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/28/Hubp2.png" group-title="Sports Temp 1" tvg-id="Hub.Premier.2.sg" tvg-name="Hub.Premier.2.sg", Hub Premier 2 FHD
+https://a1xs.vip/1100042
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/28/Hub3.png" group-title="Sports Temp 1" tvg-id="Hub.Premier.3.sg" tvg-name="Hub.Premier.3.sg", Hub Premier 3 FHD
+https://a1xs.vip/1100043
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/28/Hub4.png" group-title="Sports Temp 1" tvg-id="Hub.Premier.4.sg" tvg-name="Hub.Premier.4.sg", Hub Premier 4 FHD
+https://a1xs.vip/1100044
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3hW45Pb/Astro-Sports-UHD.png" group-title="Sports Temp 1" tvg-id="Astro.Sports.UHD.my" tvg-name="Astro.Sports.UHD.my", MY: Astro Sports UHD
+https://a1xs.vip/9000001
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/21/NowS1.png" group-title="Sports Temp 1" tvg-id="Now.Sports.Premier.League.1.hk" tvg-name="Now.Sports.Premier.League.1.hk", Now Sports PL 1 FHD
+https://a1xs.vip/1100001
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="Sports Temp 1" tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now.Sports.Premier.League.2.hk", Now Sports PL 2 FHD
+https://a1xs.vip/1100002
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png" group-title="Sports Temp 1" tvg-id="Now.Sports.Premier.League.2.hk" tvg-name="Now.Sports.Premier.League.2.hk", Now Sports PL 2 FHD
+https://a1xs.vip/1100021
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/23/Sky_Sport_PL_NZ.webp" group-title="Sports Temp 1" tvg-id="SKY.Sport.8.nz" tvg-name="SKY.Sport.8.nz", Sky Sport PL NZ
+https://a1xs.vip/700008
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="Sports Temp 1" tvg-id="SuperSport.1.al" tvg-name="SuperSport.1.al", AL: Super Sport 1 FHD
+https://a1xs.vip/130001
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="Sports Temp 1" tvg-id="SuperSport.2.al" tvg-name="SuperSport.2.al", AL: Super Sport 2 FHD
+https://a1xs.vip/130002
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zI22zLw.png" group-title="Sports Temp 1" tvg-id="SuperSport.3.al" tvg-name="SuperSport.3.al", AL: Super Sport 3 FHD
+https://a1xs.vip/130003
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EhInbSW.png" group-title="Sports Temp 1" tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky.Sport.Bundesliga.de", DE: Sky Sport Bundesliga FHD
+https://a1xs.vip/120002
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0iFbfLa.png" group-title="Sports Temp 1" tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky.Sport.Top.Event.de", DE: Sky Sport Top Event FHD
+https://a1xs.vip/120003
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8KiZkJF.png" group-title="Sports Temp 1" tvg-id="sportdigital.de" tvg-name="sportdigital.de", DE: Sportdigital Fussball FHD
+https://a1xs.vip/120001
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2PGUHlW.png" group-title="Sports Temp 1" tvg-id="Premier.Sports.1.HD.ie" tvg-name="Premier.Sports.1.HD.ie", IRE: Premier Sports 1 FHD
+https://a1xs.vip/8000021
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mLYkn9p.png" group-title="Sports Temp 1" tvg-id="Premier.Sports.2.HD.ie" tvg-name="Premier.Sports.2.HD.ie", IRE: Premier Sports 2 FHD
+https://a1xs.vip/8000022
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Sports Temp 1" tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo.Sport.2.nl", NL: Ziggo Sport 2 FHD
+https://a1xs.vip/140002
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Sports Temp 1" tvg-id="Ziggo.Sport.3.nl" tvg-name="Ziggo.Sport.3.nl", NL: Ziggo Sport 3 FHD
+https://a1xs.vip/140003
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Sports Temp 1" tvg-id="Ziggo.Sport.4.nl" tvg-name="Ziggo.Sport.4.nl", NL: Ziggo Sport 4 FHD
+https://a1xs.vip/140004
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8mnQvB5.png" group-title="Sports Temp 1" tvg-id="Ziggo.Sport.nl" tvg-name="Ziggo.Sport.nl", NL: Ziggo Sport FHD
+https://a1xs.vip/140001
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NRK8Uc6.png" group-title="Sports Temp 1" tvg-id="SKY.Sport.1.nz" tvg-name="SKY.Sport.1.nz", SKY Sport 1 NZ
+https://a1xs.vip/700031
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IEDwF39.png" group-title="Sports Temp 1" tvg-id="SKY.Sport.2.nz" tvg-name="SKY.Sport.2.nz", SKY Sport 2 NZ
+https://a1xs.vip/700032
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gTeEX4f.png" group-title="Sports Temp 1" tvg-id="SKY.Sport.3.nz" tvg-name="SKY.Sport.3.nz", SKY Sport 3 NZ
+https://a1xs.vip/700033
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ogjOWQV.png" group-title="Sports Temp 1" tvg-id="SKY.Sport.4.nz" tvg-name="SKY.Sport.4.nz", SKY Sport 4 NZ
+https://a1xs.vip/700034
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zIRnRJM.png" group-title="Sports Temp 1" tvg-id="SKY.Sport.5.nz" tvg-name="SKY.Sport.5.nz", SKY Sport 5 NZ
+https://a1xs.vip/700035
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o0Icbjt.png" group-title="Sports Temp 1" tvg-id="SKY.Sport.6.nz" tvg-name="SKY.Sport.6.nz", SKY Sport 6 NZ
+https://a1xs.vip/700036
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AznJTOJ.png" group-title="Sports Temp 1" tvg-id="SKY.Sport.7.nz" tvg-name="SKY.Sport.7.nz", SKY Sport 7 NZ
+https://a1xs.vip/700037
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZlADOPM.png" group-title="Sports Temp 1" tvg-id="SKY.Sport.8.nz" tvg-name="SKY.Sport.8.nz", Sky Sport 8 - Premier League NZ
+https://a1xs.vip/700008
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mj9zJUc.png" group-title="Sports Temp 1" tvg-id="Now.Sports.4K.1.hk" tvg-name="Now.Sports.4K.1.hk", HK: Now Sports 1 4k
+https://a1xs.vip/9000011
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2qDLpV.png" group-title="Sports Temp 1" tvg-id="V.sport.ULTRA.HD.fi" tvg-name="V.sport.ULTRA.HD.fi", SE: V Sport Ultra HD
+https://a1xs.vip/9000013
+
+#EXTINF:-1 tvg-logo="https://pixvid.org/images/2025/01/21/Hub-Premier-2-UHD.png" group-title="Sports Temp 1" tvg-id="Hub.Premier.2.sg" tvg-name="Hub.Premier.2.sg", SG: Hub Premier 2 UHD
+https://a1xs.vip/9000012
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aetKPNi.png" group-title="Sports Temp 1" tvg-id="SkySp.F1.uk" tvg-name="SkySp.F1.uk", UK: Sky Sports F1 UHD
+https://a1xs.vip/2000016
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="Sports Temp 1" tvg-id="SkySpMainEvHD.uk" tvg-name="SkySpMainEvHD.uk", UK: Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="Sports Temp 1" tvg-id="TNT.Sports.Ultimate.uk" tvg-name="TNT.Sports.Ultimate.uk", UK: TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="Sports Temp 1" tvg-id="SkySp.ActionHD.uk" tvg-name="SkySp.ActionHD.uk", Sky Sports Action FHD
+https://a1xs.vip/2000011
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="Sports Temp 1" tvg-id="SkySpCricket.HD.uk" tvg-name="SkySpCricket.HD.uk", Sky Sports Cricket FHD
+https://a1xs.vip/2000006
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Sports Temp 1" tvg-id="SkySp.F1.HD.uk" tvg-name="SkySp.F1.HD.uk", Sky Sports F1 FHD
+https://a1xs.vip/2000005
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aetKPNi.png" group-title="Sports Temp 1" tvg-id="SkySp.F1.uk" tvg-name="SkySp.F1.uk", Sky Sports F1 UHD
+https://a1xs.vip/2000016
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="Sports Temp 1" tvg-id="SkySp.Fball.HD.uk" tvg-name="SkySp.Fball.HD.uk", Sky Sports Football FHD
+https://a1xs.vip/2000003
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="Sports Temp 1" tvg-id="SkySp.Golf.HD.uk" tvg-name="SkySp.Golf.HD.uk", Sky Sports Golf FHD
+https://a1xs.vip/2000009
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="Sports Temp 1" tvg-id="SkySpMainEvHD.uk" tvg-name="SkySpMainEvHD.uk", Sky Sports Main Event FHD
+https://a1xs.vip/2000001
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="Sports Temp 1" tvg-id="SkySpMainEvHD.uk" tvg-name="SkySpMainEvHD.uk", Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="Sports Temp 1" tvg-id="SkySp.Mix.HD.uk" tvg-name="SkySp.Mix.HD.uk", Sky Sports Mix FHD
+https://a1xs.vip/2000008
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="Sports Temp 1" tvg-id="SkySp.News.HD.uk" tvg-name="SkySp.News.HD.uk", Sky Sports News FHD
+https://a1xs.vip/2000004
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sports Temp 1" tvg-id="SkySp.PL.HD.uk" tvg-name="SkySp.PL.HD.uk", Sky Sports Premier League FHD
+https://a1xs.vip/2000002
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" group-title="Sports Temp 1" tvg-id="SkySp.Racing.HD.uk" tvg-name="SkySp.Racing.HD.uk", Sky Sports Racing FHD
+https://a1xs.vip/2000010
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="Sports Temp 1" tvg-id="SkySp.Tennis.HD.uk" tvg-name="SkySp.Tennis.HD.uk", Sky Sports Tennis FHD
+https://a1xs.vip/2000013
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="Sports Temp 1" tvg-id="SkySp+HD.uk" tvg-name="SkySp+HD.uk", Sky Sports+ FHD
+https://a1xs.vip/2000012
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="Sports Temp 1" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT.Sports.1.HD.uk", TNT Sports 1 FHD
+https://a1xs.vip/2000021
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="Sports Temp 1" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT.Sports.2.HD.uk", TNT Sports 2 FHD
+https://a1xs.vip/2000022
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1d9M65.png" group-title="Sports Temp 1" tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT.Sports.3.HD.uk", TNT Sports 3 FHD
+https://a1xs.vip/2000023
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="Sports Temp 1" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT.Sports.4.HD.uk", TNT Sports 4 FHD
+https://a1xs.vip/2000024
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="Sports Temp 1" tvg-id="TNT.Sports.Ultimate.uk" tvg-name="TNT.Sports.Ultimate.uk", TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VFyADIN.png" group-title="Sports Temp 1" tvg-id="STAR.SPORTS.SELECT.1.HD.in" tvg-name="STAR.SPORTS.SELECT.1.HD.in", Star Sports Select 1 FHD
+https://a1xs.vip/8000011
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6u2iOjA.png" group-title="Sports Temp 1" tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-name="STAR.SPORTS.SELECT.2.HD.in", Star Sports Select 2 FHD
+https://a1xs.vip/8000012
+
