@@ -1,15 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/UK/SkySportsF1.uk.png" group-title="TV" tvg-id="" tvg-name="", Sky Sports F1 - 1
-https://hls.iill.top/api/Sky-Sports-F1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/UK/SkySportsF1.uk.png" group-title="TV" tvg-id="" tvg-name="", Sky Sports F1 - 2
-https://live.hdsogood.com/memfs/606e54ba-7737-4c63-81db-543f55cce9b4.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/UK/SkySportsF1.uk.png" group-title="TV" tvg-id="" tvg-name="", Sky Sports F1 - 3
-http://snowbank.houseinventer.com/732187/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iptvboss.xyz/logos/UK/SkySportsF1.uk.png" group-title="TV" tvg-id="" tvg-name="", Sky Sports F1 - 4
-https://images.amri.gg/memfs/3fd81a68-75c5-4e06-a4b0-861b8d3e9c59.m3u8
+#EXTINF:-1 tvg-logo="noimage.png" group-title="TV" tvg-id="" tvg-name="", -----
+0
 
 #EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2023/03/30/86ad9835-f17e-4a69-9249-ecbefa1e7ea0/i0qm2jIu.jpg?width=850&height=914" group-title="MotoGP - Thailand - Round 1 - 2026" tvg-id="" tvg-name="", Free Practice
 https://suisports.upns.xyz/hls/E8JVWd-BjV6riA1LTNs4rw/urp/dq8zrbeg/sq1faw/tt/master.m3u8?v=1766826492
