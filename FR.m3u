@@ -1,4 +1,115 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1 - 2026" tvg-id="" tvg-name="", Free Practice 1
+https://suisports.upns.xyz/hls/opDePaCgQqSQDaYTSN_4Bg/us/afyhwv5v/b9zqps/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1 - 2026" tvg-id="" tvg-name="", Free Practice 2
+https://suisports.upns.xyz/hls/qy2G0uMZQtHNCN8rYIzJ-A/us/afyhwv5v/lcebte/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1 - 2026" tvg-id="" tvg-name="", Free Practice 3
+https://suisports.upns.xyz/hls/o2ebqMFJLaJX-QmfqH5W_g/vz/afyhwv5v/gox9ow/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1 - 2026" tvg-id="" tvg-name="", Qualifying
+https://suisports.upns.xyz/hls/I3HabkQ8fxGdD297FLq8lg/k5/afyhwv5v/93p8rp/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1 - 2026" tvg-id="" tvg-name="", Race
+https://suisports.upns.xyz/hls/TXaT_UrggJmtIJVQfqWsBw/6hp/xieomus6/v6tq8r/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png" group-title="TV" tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD", TNT Sport 2
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="TV" tvg-id="SPOTV2" tvg-name="SPOTV2", Spotv 2
+https://hls.iill.top/api/Spotv-2/index.m3u8
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySpMainEvHD.uk" tvg-name="SkySpMainEvHD.uk", Sky Sports Main Event UHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySp.F1.uk" tvg-name="SkySp.F1.uk", Sky Sports F1 UHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="TNT.Sports.Ultimate.uk" tvg-name="TNT.Sports.Ultimate.uk", TNT Sports Ultimate UHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySpMainEvHD.uk" tvg-name="SkySpMainEvHD.uk", Sky Sports Main Event FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySp.PL.HD.uk" tvg-name="SkySp.PL.HD.uk", Sky Sports Premier League FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySp.Fball.HD.uk" tvg-name="SkySp.Fball.HD.uk", Sky Sports Football FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySp.News.HD.uk" tvg-name="SkySp.News.HD.uk", Sky Sports News FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySp.F1.HD.uk" tvg-name="SkySp.F1.HD.uk", Sky Sports F1 FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySpCricket.HD.uk" tvg-name="SkySpCricket.HD.uk", Sky Sports Cricket FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySp.Mix.HD.uk" tvg-name="SkySp.Mix.HD.uk", Sky Sports Mix FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySp.Golf.HD.uk" tvg-name="SkySp.Golf.HD.uk", Sky Sports Golf FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySp.Racing.HD.uk" tvg-name="SkySp.Racing.HD.uk", Sky Sports Racing FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySp.ActionHD.uk" tvg-name="SkySp.ActionHD.uk", Sky Sports Action FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySp+HD.uk" tvg-name="SkySp+HD.uk", Sky Sports+ FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="SkySp.Tennis.HD.uk" tvg-name="SkySp.Tennis.HD.uk", Sky Sports Tennis FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="TNT.Sports.1.HD.uk" tvg-name="TNT.Sports.1.HD.uk", TNT Sports 1 FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="TNT.Sports.2.HD.uk" tvg-name="TNT.Sports.2.HD.uk", TNT Sports 2 FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="TNT.Sports.3.HD.uk" tvg-name="TNT.Sports.3.HD.uk", TNT Sports 3 FHD
+(null)
+
+#EXTINF:-1 tvg-logo="(null)" group-title="UK Sports" tvg-id="TNT.Sports.4.HD.uk" tvg-name="TNT.Sports.4.HD.uk", TNT Sports 4 FHD
+(null)
+
+#EXTINF:-1 tvg-logo="https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_265348/20251215060844_20qX6/png" group-title="F1 - Chinese - Round 2" tvg-id="" tvg-name="", Practice
+https://suisports.upns.xyz/hls/R_Pr5NkfGxHhJyEBeRtdXA/ek/ghsr6zxu/6rpax1/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_265348/20251215060844_20qX6/png" group-title="F1 - Chinese - Round 2" tvg-id="" tvg-name="", Sprint Qualifying
+https://suisports.upns.xyz/hls/4ZBxAik6tTVGK-vS-kYwOA/ic/ghsr6zxu/3mzzud/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_265348/20251215060844_20qX6/png" group-title="F1 - Chinese - Round 2" tvg-id="" tvg-name="", Sprint Race
+https://suisports.upns.xyz/hls/a0790b4Ca7M1w_SzDek9Ew/hld/1xmlfi6v/bkh6q9/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_265348/20251215060844_20qX6/png" group-title="F1 - Chinese - Round 2" tvg-id="" tvg-name="", Qualifying
+https://suisports.upns.xyz/hls/yyeOwaMxIZv4otLrU8xIyw/qu/1xmlfi6v/hqoo15/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_265348/20251215060844_20qX6/png" group-title="F1 - Chinese - Round 2" tvg-id="" tvg-name="", Race
+https://suisports.upns.xyz/hls/JnAGS4sQdEZiPU_cbIKtLg/ty/el9qhvk6/hqnxen/tt/master.m3u8?v=1766826492
+
+#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Practice 1
+-
+
+#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Practice 2
+-
+
+#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Practice 3
+-
+
+#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Qualifying
+-
+
+#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Sprint Race
+-
+
+#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Race
+-
+
 #EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2023/03/30/86ad9835-f17e-4a69-9249-ecbefa1e7ea0/i0qm2jIu.jpg?width=850&height=914" group-title="MotoGP - Thailand - Round 1 - 2026" tvg-id="" tvg-name="", Free Practice
 https://suisports.upns.xyz/hls/E8JVWd-BjV6riA1LTNs4rw/urp/dq8zrbeg/sq1faw/tt/master.m3u8?v=1766826492
 
@@ -25,58 +136,4 @@ https://suisports.upns.xyz/hls/kS9D5mlHnLIDAN-5OHg9nw/ck/nc3fje1p/ktg58b/tt/mast
 
 #EXTINF:-1 tvg-logo="https://www.eazi-grip.com/wp-content/uploads/zk-raing-thailand-preview-2026.jpg" group-title="MotoGP - Thailand - Round 1 - 2026" tvg-id="" tvg-name="", Moto 3 - Race
 https://suisports.upns.xyz/hls/FbTm_IL-Mbdd81eAclZxwQ/n8l/nc3fje1p/j1pwki/tt/master.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png" group-title="TV" tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD", TNT Sport 2
-https://hls.iill.top/api/TNT-Sports-2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="TV" tvg-id="SPOTV2" tvg-name="SPOTV2", Spotv 2
-https://hls.iill.top/api/Spotv-2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1 - 2026" tvg-id="" tvg-name="", Free Practice 1
-https://suisports.upns.xyz/hls/opDePaCgQqSQDaYTSN_4Bg/us/afyhwv5v/b9zqps/tt/master.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1 - 2026" tvg-id="" tvg-name="", Free Practice 2
-https://suisports.upns.xyz/hls/qy2G0uMZQtHNCN8rYIzJ-A/us/afyhwv5v/lcebte/tt/master.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1 - 2026" tvg-id="" tvg-name="", Free Practice 3
-https://suisports.upns.xyz/hls/o2ebqMFJLaJX-QmfqH5W_g/vz/afyhwv5v/gox9ow/tt/master.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1 - 2026" tvg-id="" tvg-name="", Qualifying
-https://suisports.upns.xyz/hls/I3HabkQ8fxGdD297FLq8lg/k5/afyhwv5v/93p8rp/tt/master.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-logo="https://timeoutfedsquare.com.au/wp-content/uploads/2025/03/australian-grand-prix-2025.jpg" group-title="F1 - Australian - Round 1 - 2026" tvg-id="" tvg-name="", Race
-https://suisports.upns.xyz/hls/TXaT_UrggJmtIJVQfqWsBw/6hp/xieomus6/v6tq8r/tt/master.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Practice 1
--
-
-#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Practice 2
--
-
-#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Practice 3
--
-
-#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Qualifying
--
-
-#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Sprint Race
--
-
-#EXTINF:-1 tvg-logo="https://resources.motogp.pulselive.com/photo-resources/2026/03/16/230e1ada-66b9-4d00-8ff1-a16993b087a6/MotoGP-Brazil-16x9.jpg?width=850&height=914" group-title="MotoGP - Brazil - Round 2" tvg-id="" tvg-name="", Race
--
-
-#EXTINF:-1 tvg-logo="https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_265348/20251215060844_20qX6/png" group-title="F1 - Chinese - Round 2" tvg-id="" tvg-name="", Practice
-https://suisports.upns.xyz/hls/R_Pr5NkfGxHhJyEBeRtdXA/ek/ghsr6zxu/6rpax1/tt/master.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-logo="https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_265348/20251215060844_20qX6/png" group-title="F1 - Chinese - Round 2" tvg-id="" tvg-name="", Sprint Qualifying
-https://suisports.upns.xyz/hls/4ZBxAik6tTVGK-vS-kYwOA/ic/ghsr6zxu/3mzzud/tt/master.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-logo="https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_265348/20251215060844_20qX6/png" group-title="F1 - Chinese - Round 2" tvg-id="" tvg-name="", Sprint Race
-https://suisports.upns.xyz/hls/a0790b4Ca7M1w_SzDek9Ew/hld/1xmlfi6v/bkh6q9/tt/master.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-logo="https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_265348/20251215060844_20qX6/png" group-title="F1 - Chinese - Round 2" tvg-id="" tvg-name="", Qualifying
-https://suisports.upns.xyz/hls/yyeOwaMxIZv4otLrU8xIyw/qu/1xmlfi6v/hqoo15/tt/master.m3u8?v=1766826492
-
-#EXTINF:-1 tvg-logo="https://image.kkday.com/v2/image/get/c_fit%2Cq_55%2Ct_webp%2Cw_960/s1.kkday.com/product_265348/20251215060844_20qX6/png" group-title="F1 - Chinese - Round 2" tvg-id="" tvg-name="", Race
-https://suisports.upns.xyz/hls/JnAGS4sQdEZiPU_cbIKtLg/ty/el9qhvk6/hqnxen/tt/master.m3u8?v=1766826492
 
